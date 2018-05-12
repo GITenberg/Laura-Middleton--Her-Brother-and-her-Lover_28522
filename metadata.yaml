@@ -1,0 +1,33 @@
+_repo: Laura-Middleton--Her-Brother-and-her-Lover_28522
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Anonymous
+    alias: Anonyme
+    gutenberg_agent_id: '216'
+    url: http://www.gutenberg.org/2009/agents/216
+    wikipedia:
+    - http://www.gutenberg.org/browse/authors/u#a49
+    - http://en.wikipedia.org/wiki/Anonymity
+description: Laura Middleton - Her Brother and Her Lover is a classic Victorian erotic
+  novel, published in 1891. It contains graphic sexual descriptions and themes. On
+  going to my room to dress for dinner, I found a servant-girl engaged in making some
+  of the arrangements which the change of apartments had necessitated. On my entrance
+  she was going to leave the room, but seeing that she was a very nice-looking young
+  girl, I said she need not run away in such a hurry ...
+gutenberg_issued: '2009-04-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28522'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Erotic stories'
+title: Laura Middleton; Her Brother and her Lover
+url: http://www.gutenberg.org/ebooks/28522
